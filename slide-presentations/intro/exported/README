@@ -1,0 +1,3 @@
+To generate jpeg slides use:
+
+pdftoppm -progress -jpeg -aa yes <file_name>.pdf <file_name>
