@@ -1,0 +1,5 @@
+The "FODP" (Flat Open Document Presentation) format is the "source" and must be used to edit content. Don't forget to translate to other languages after change something. It's important to keep it synchronized.
+
+After any change, a new version should be exported to "exported" folder in the PDF, PPSX and JPEG formats.
+
+The "archive" folder contains the v0 file in the Microsoft PowerPoint format (PPTX).
